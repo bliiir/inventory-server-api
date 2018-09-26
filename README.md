@@ -1,8 +1,8 @@
 # Inventory management webserver
-*Release: 0.1*
+Release: 0.1
 
 
-> The inventory project provides a simple API to read and write to an inventory using HTTP requests
+*Simple [WISGI](https://wsgi.readthedocs.io/en/latest/index.html) based web-server that allows the user to read and write to an inventory using HTTP requests*
 
 
 ## Files
