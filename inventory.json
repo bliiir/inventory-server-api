@@ -1,0 +1,20 @@
+{
+    "clothing": {
+        "underwear": 10,
+        "socks": 4,
+        "pants": 3
+    },
+
+    "shoes": {
+        "sneakers": 16,
+        "loafers": 5,
+        "sandals": 11
+    },
+
+    "headwear": {
+        "bowlers": 3,
+        "tophats": 99,
+        "basebal caps": 2
+    }
+}
+
